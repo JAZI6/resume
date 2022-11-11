@@ -16,7 +16,7 @@
             <p>
                 <span class="icon">&#xe62b;</span>
                 <span class="title">个人信息：</span>
-                <span class="text">男 / 23岁</span>
+                <span class="text">男 / 25岁</span>
             </p>
             <p>
                 <span class="icon">&#xe68d;</span>
@@ -73,7 +73,7 @@
             </p>
             <p>1.较强的学习能力</p>
             <p>2.良好的协作能力</p>
-            <p>3.较好的抗压能力，能够独立承担</p>
+            <p>3.较好的抗压能力，独立承担工作</p>
             <p>4.轻微强迫症，注意代码书写的规范</p>
         </div>
     </div>

@@ -27,17 +27,20 @@
 
             <!-- Vue -->
             <div class="content">
-                <p class="sec-title"><span class="dot"></span>熟练使用 Vue.js 与 周边UI组件库（element / vant）</p>
+                <p class="sec-title"><span class="dot"></span>熟练使用 Vue.js 与 React.js</p>
                 <p class="text">
                     <span class="icon">&#xe71f;</span>
-                    <span>依据功能模块设计封装独立的组件，抽取 <strong>业务类、Mixin、工具方法</strong></span>
+                    <span>依据功能模块设计封装独立的组件，按需提取可复用逻辑</span>
                 </p>
                 <p class="text">
                     <span class="icon">&#xe71f;</span>
-                    <span
-                        >对 Vue 的
-                        <strong>实现重点如：数据响应绑定、模板编译、虚拟dom和diff 算法等</strong> 有一定了解</span
-                    >
+                    <span>对 Vue 的实现重点如: 
+                        <strong>数据响应绑定、模板编译、虚拟dom和diff 算法等</strong> 有一定了解</span>
+                </p>
+                <p class="text">
+                    <span class="icon">&#xe71f;</span>
+                    <span>对 React 的实现重点如: 
+                        <strong>虚拟dom和diff 算法等</strong> 有一定了解</span>
                 </p>
                 <!-- <p class="text">
                     <span class="icon">&#xe71f;</span>
@@ -112,14 +115,22 @@
                     </span>
                 </p> -->
                 <p class="text"><span class="icon">&#xe71f;</span>了解性能优化，并且对于其中的一些部分有所实践</p>
-                <!-- <p class="text">
+                <p class="text">
                     <span class="icon">&#xe71f;</span>
                     <span
                         >了解使用过
-                        <strong>python</strong
+                        <strong>Python</strong
                         >，优化组内的项目打包脚本，并将其改写生成为exe文件的GUI工具，减少使用者对于环境的依赖</span
                     >
-                </p> -->
+                </p>
+                <p class="text">
+                    <span class="icon">&#xe71f;</span>
+                    <span
+                        >了解使用过
+                        <strong>VScode 插件开发</strong
+                        >，完成插件Generate Allure Report并已经发布在商店中，目前已有一定下载数</span
+                    >
+                </p>
             </div>
         </div>
 

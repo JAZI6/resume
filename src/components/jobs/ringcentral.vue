@@ -15,13 +15,13 @@
             </p>
             <p class="text center key-desc-bottom">
                 <span class="project-key-word desc-title">职责：</span>
-                <span class="key-desc"> 20.4-22.4版本项目开发者 </span>
+                <span class="key-desc"> 20.4-23.1版本项目开发者 </span>
             </p>
             <p class="text">
                 <span class="iconfont"></span>
                 <span>
-                    <strong>灰度升级：</strong
-                    >本身服务端express使用了consul进行后端服务发现，于是利用了该逻辑进行相关修改，并且加上nginx的负载均衡粒度调整去实现了灰度。
+                    <strong>Monorepo：</strong
+                    >结合使用Yarn / Lerna等工具完成Monorepo的管理。
                 </span>
             </p>
         </div>
