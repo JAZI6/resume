@@ -27,20 +27,20 @@
 
             <!-- Vue -->
             <div class="content">
-                <p class="sec-title"><span class="dot"></span>熟练使用 Vue.js 与 React.js</p>
+                <p class="sec-title"><span class="dot"></span>熟练使用 React.js / Vue.js</p>
                 <p class="text">
                     <span class="icon">&#xe71f;</span>
                     <span>依据功能模块设计封装独立的组件，按需提取可复用逻辑</span>
                 </p>
                 <p class="text">
                     <span class="icon">&#xe71f;</span>
-                    <span>对 Vue 的实现重点如: 
-                        <strong>数据响应绑定、模板编译、虚拟dom和diff 算法等</strong> 有一定了解</span>
+                    <span>对 React 的实现重点如: 
+                        <strong>虚拟dom和diff 算法等</strong> 有一定了解</span>
                 </p>
                 <p class="text">
                     <span class="icon">&#xe71f;</span>
-                    <span>对 React 的实现重点如: 
-                        <strong>虚拟dom和diff 算法等</strong> 有一定了解</span>
+                    <span>对 Vue 的实现重点如: 
+                        <strong>数据响应绑定、模板编译、虚拟dom和diff 算法等</strong> 有一定了解</span>
                 </p>
                 <!-- <p class="text">
                     <span class="icon">&#xe71f;</span>
@@ -78,15 +78,17 @@
 
             <!-- Typescript -->
             <div class="content">
-                <p class="sec-title"><span class="dot"></span>了解使用过Typescript</p>
+                <p class="sec-title"><span class="dot"></span>熟悉使用 Typescript</p>
+                <p class="text">
+                    <span class="icon">&#xe71f;</span>
+                    <span>熟悉使用基本语法</span>
+                </p>
+                <p class="text">
+                    <span class="icon">&#xe71f;</span>
+                    <span>能够使用对应编译配置来配置项目</span>
+                </p>
             </div>
             <!-- Typescript -->
-
-            <!-- Node以及相关服务端框架 -->
-            <div class="content">
-                <p class="sec-title"><span class="dot"></span>了解使用过Node以及相关服务端框架（express / egg）</p>
-            </div>
-            <!-- Node以及相关服务端框架 -->
 
             <!-- 工程化构建工具 -->
             <div class="content">
@@ -94,12 +96,18 @@
                 <p class="text">
                     <span class="icon">&#xe71f;</span>
                     <span
-                        >能够使用<strong> Webpack、脚手架（vue-cli等）</strong
-                        >配置构建简单项目，对该工具有一定理解</span
+                        >能够使用<strong> Webpack </strong
+                        >配置构建项目，对该工具有一定理解</span
                     >
                 </p>
             </div>
             <!-- 工程化构建工具 -->
+
+            <!-- Node以及相关服务端框架 -->
+            <div class="content">
+                <p class="sec-title"><span class="dot"></span>了解使用过Node以及相关服务端框架（express / egg）</p>
+            </div>
+            <!-- Node以及相关服务端框架 -->
 
             <div class="content">
                 <p class="sec-title"><span class="dot"></span>其他</p>
@@ -120,7 +128,7 @@
                     <span
                         >了解使用过
                         <strong>Python</strong
-                        >，优化组内的项目打包脚本，并将其改写生成为exe文件的GUI工具，减少使用者对于环境的依赖</span
+                        >，优化组内项目打包发布脚本，并将其改写生成为exe文件的GUI工具，减少使用者对于环境的依赖</span
                     >
                 </p>
                 <p class="text">
@@ -128,7 +136,7 @@
                     <span
                         >了解使用过
                         <strong>VScode 插件开发</strong
-                        >，完成插件Generate Allure Report并已经发布在商店中，目前已有一定下载数</span
+                        >，实现了 Generate Allure Report 插件并已经发布在商店中，目前有一定下载数量</span
                     >
                 </p>
             </div>
@@ -136,8 +144,8 @@
 
         <div class="project">
             <p class="title">工作经历</p>
-            <yealink />
             <ringcentral />
+            <yealink />
             <!-- <div class="content">
                 <p class="sec-title"><span class="dot"></span>小米购物PC端首页</p>
                 <p class="link">

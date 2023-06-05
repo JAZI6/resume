@@ -1,5 +1,5 @@
 <template>
-    <fragment>
+    <div>
         <div class="content project-content">
             <p class="sec-title"><span class="dot"></span>厦门亿联网络技术股份有限公司（2019.7-2020.10）</p>
             <p class="link">
@@ -133,7 +133,7 @@
                 </span>
             </p>
         </div>
-    </fragment>
+    </div>
 </template>
 
 <script>
